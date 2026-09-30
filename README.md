@@ -24,29 +24,6 @@
 - **Backend / API**: Express.js API, Razorpay integration (for the personalized greetings unlock feature)
 - **Deployment**: Vercel (includes `@vercel/analytics`)
 
-## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/dharaksh2807-svg/micchami-dukkadam-customize-.git
-   cd micchami-dukkadam-customize-
-   ```
-
-2. **Serve the static files:**
-   You can use any local web server. For example, using `npx`:
-   ```bash
-   npx serve micchami-dukkadam
-   ```
-   Or with Python:
-   ```bash
-   cd micchami-dukkadam
-   python -m http.server 3000
-   ```
-
-3. **Open the browser:**
-   Navigate to `http://localhost:3000` to view the website.
-
-*(Note: Features relying on the Vercel backend like serverless endpoints and Razorpay payments require local environment setup and `vercel dev` to function completely).*
 
 ## 📖 What is Samvatsari & Micchami Dukkadam?
 - **Samvatsari**: The holiest day in the Jain tradition, marking the conclusion of the Paryushana festival. It is a day of deep introspection, fasting, and spiritual cleansing.
